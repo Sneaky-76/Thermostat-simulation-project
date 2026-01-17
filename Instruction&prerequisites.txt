@@ -1,0 +1,21 @@
+Welcome to a quick guide on how to use the VI presented in this GitHub repository.
+
+Prerequisites: installed LabView (preferably version 2025+)
+
+On opening the .vi file the user is met with the device's front panel of the project, which displays:
+- current temperature [Celsius]
+- desired/set temperature [Celsius]
+- room name
+- room numer
+- current date & time of the device
+- heat on/off LED indicator for a specific room
+
+The white arrow in the top left corner of the project shall be pressed in order to start the program.
+
+Controls:
+
+[>] Right pointing arrow = cycling between the rooms in ascending order
+[<] Left pointing arrow = cycling between the rooms in descending order
+[^] Up pointing arrow = incrementating the desired room temperature by 0.1
+[⌄] Down pointing arrow = decrementing the desired room temperature by 0.1
+[o] The circular-shaped button = stopping the program
