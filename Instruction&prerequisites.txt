@@ -10,7 +10,7 @@ On opening the .vi file the user is met with the device's front panel of the pro
 - current date & time of the device
 - heat on/off LED indicator for a specific room
 
-The white arrow in the top left corner of the project shall be pressed in order to start the program.
+The white arrow in the top left corner of the project should be pressed in order to start the program.
 
 Controls:
 
